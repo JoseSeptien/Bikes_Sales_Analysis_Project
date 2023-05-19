@@ -1,4 +1,4 @@
-# Manufacturing_Company_PowerBI_Report
+# Bikes_Sales_Analysis_Project
 
 ## Objective
 Design and deliver an end-to-end business intelligence solution for a global manufacturing company. Track KPIs (sales, revenue, profit, returns), compare regional performance, analyse product-level trends and forecasts, and identify high-value customers.
