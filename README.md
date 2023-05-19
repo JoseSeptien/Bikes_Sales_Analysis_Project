@@ -14,3 +14,8 @@ The project was based on a set of raw CSV files containing information about tra
 
 ## Technologies
 Power BI
+
+## Preview
+![Bikes_Sales_Project_1](Images/Bikes_Sales_Project_1.png)
+![Bikes_Sales_Project_2](Images/Bikes_Sales_Project_2.png)
+![Bikes_Sales_Project_3](Images/Bikes_Sales_Project_3.png)
